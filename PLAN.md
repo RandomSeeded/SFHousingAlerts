@@ -45,6 +45,7 @@ Sections you need in any housing guide:
 - You can just make up numbers for the different neighborhoods and adjust them to be more perfect later
 - I'm not sure how best to display this stuff - ask for advice from one of your frontend-capable friends. General idea would be that you'd have a simplified map of SF neighborhoods, and then you pick which attributes are most important to you and it changes colors on the map accordingly
 - That seems like a fucking complicated component. Maybe not impossible though.
+- When you click on one of the neighborhoods it gives a little blurb and shows the scores for that neighborhood
 
 2. Finding apartments to look at
 - MVP: content (text) + suggest other tooling. E.g. you can use padmapper but don't bother b/c it sucks. Set up IFTTT. Plug the fact that you'll have a tool coming down the pipeline
@@ -59,4 +60,14 @@ Sections you need in any housing guide:
 4. ??
 
 --------------------
+
+Layout:
+
+??
+
+Splash page: it's fucking important
+Menu bar down the lefthand side? On the top? What will it look like on mobile? It's really important this be a clean UI on mobile.
+I think I want to do a top-fixed navbar. It only has a few sections, at least for now. We can always change this later.
+
+Interesting thought: this is actually the rare thing that might make sense to have as an app. Huh.
 
